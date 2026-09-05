@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1358498800.svg)](https://doi.org/10.5281/zenodo.22395330)
 # AI Safeguard Failure Observatory
 
 **A relational dataset of how AI and algorithmic safeguards fail, coded across 30 real-world
