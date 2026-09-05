@@ -1,0 +1,10 @@
+finding,value,rate
+Non-functional safeguards at incident time,137 / 181 incident-time safeguards,75.7%
+Safeguards coded Working,37 / 181,20.4%
+  of which external-ecosystem layer,26 / 37 Working,70.3%
+Incidents with >=1 Absent safeguard,25 / 30 incidents,83.3%
+Omission-dominated incidents (Absent = top non-Working state),8 / 30 incidents,26.7%
+Incidents with a detective control Working yet realized harm,11 / 30 incidents,36.7%
+Preventive controls coded Working,0 / 51 preventive (incident-time),0.0%
+assurance-governance coded Inadequate,13 / 30 assurance-governance,43.3%
+Relationships per incident (mean; all incidents >=2),2.8,min 2 / max 5

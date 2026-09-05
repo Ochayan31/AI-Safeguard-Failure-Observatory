@@ -1,0 +1,26 @@
+factor_id,incident_id,name,factor_type,effect_direction,causal_role,confidence
+2023-cruise-drag-sf::F1,2023-cruise-drag-sf,Cruise us-versus-them posture / move-fast pressure,cultural,harm-amplifying,aggravating,medium
+2015-2020-au-robodebt::F2,2015-2020-au-robodebt,Budget-savings mandate / cost-recovery pressure,incentive-structure,harm-enabling,aggravating,medium
+2013-2019-optum-impact-pro::F3,2013-2019-optum-impact-pro,Upstream structural inequity (less spent on Black patients at equal illness),economic,harm-causing,primary,high
+2025-gemini-cli-file-destruction::F4,2025-gemini-cli-file-destruction,User ran agent on un-version-controlled files with sandbox disabled,other,harm-enabling,contributing,medium
+2018-2019-boeing-737max-mcas::F5,2018-2019-boeing-737max-mcas,Schedule/competitive pressure vs Airbus A320neo,incentive-structure,harm-enabling,aggravating,medium
+2013-2021-nl-toeslagen::F6,2013-2021-nl-toeslagen,Cost-recovery / fraud-savings incentive,incentive-structure,harm-enabling,aggravating,medium
+2020-williams-detroit-facerec::F7,2020-williams-detroit-facerec,Higher facial-recognition misidentification rates for people of colour,other,harm-amplifying,contributing,medium
+2023-mata-avianca-chatgpt::F8,2023-mata-avianca-chatgpt,Asking ChatGPT to self-confirm the cases (illusory verification),other,harm-enabling,contributing,high
+2025-echoleak-m365-copilot::F9,2025-echoleak-m365-copilot,Immature prompt-injection defence tooling / scarce detection datasets,other,harm-enabling,contributing,low
+2016-tesla-autopilot-williston::F10,2016-tesla-autopilot-williston,Truck driver's failure to yield the right of way,other,harm-causing,primary,high
+2016-tesla-autopilot-williston::F11,2016-tesla-autopilot-williston,Driver operating above the speed limit,other,harm-amplifying,contributing,high
+2016-compas-recidivism::F12,2016-compas-recidivism,Differing group base rates make calibration and equalized error rates incompatible,other,harm-enabling,primary,high
+2016-microsoft-tay::F13,2016-microsoft-tay,Coordinated off-platform adversarial campaign (4chan),other,harm-causing,primary,high
+2020-clearview-ai-scraping::F14,2020-clearview-ai-scraping,Absence of an international enforcement convention,political,harm-enabling,contributing,medium
+2020-uk-ofqual-alevel::F15,2020-uk-ofqual-alevel,Political mandate to prevent grade inflation / preserve aggregate comparability,political,harm-enabling,primary,medium
+2013-2015-us-mi-midas::F16,2013-2015-us-mi-midas,Fraud-recovery incentive (penalties up to 400%),incentive-structure,harm-enabling,aggravating,medium
+2021-facebook-files-instagram::F17,2021-facebook-files-instagram,Engagement-maximizing business incentive,incentive-structure,harm-enabling,primary,medium
+2015-vw-dieselgate::F18,2015-vw-dieselgate,Commercial mandate to market 'clean diesel' at scale,incentive-structure,harm-causing,primary,medium
+2020-pulse-oximeter-bias::F19,2020-pulse-oximeter-bias,Historical under-representation of dark skin in clinical/calibration research,cultural,harm-enabling,primary,high
+2010-flash-crash::F20,2010-flash-crash,Pre-existing macro stress (European debt-crisis fears),economic,harm-amplifying,contributing,high
+2021-zillow-offers::F21,2021-zillow-offers,Competitive pressure in iBuying,incentive-structure,harm-enabling,contributing,medium
+2018-tesla-autopilot-mountain-view::F22,2018-tesla-autopilot-mountain-view,Employer (Apple) lack of a distracted-driving policy,organizational,harm-enabling,contributing,medium
+2023-tesla-autopilot-recall::F23,2023-tesla-autopilot-recall,'Autopilot'/'Full Self-Driving' naming encouraging over-reliance,other,harm-enabling,contributing,medium
+2017-2021-rotterdam-welfare::F24,2017-2021-rotterdam-welfare,Fraud-detection efficiency / cost pressure,incentive-structure,harm-enabling,contributing,medium
+2014-erater-babel-aes::F25,2014-erater-babel-aes,Cost/scale incentive to automate high-volume essay scoring,incentive-structure,harm-enabling,primary,medium

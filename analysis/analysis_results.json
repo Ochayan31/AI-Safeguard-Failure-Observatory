@@ -1,0 +1,335 @@
+{
+  "n_incidents": 30,
+  "by_system_type": {
+    "confirmed-ML": 17,
+    "algorithmic-nonML": 8,
+    "probable-ML": 5
+  },
+  "by_outcome_class": {
+    "realized-harm": 28,
+    "near-miss": 2
+  },
+  "by_domain": {
+    "autonomous-vehicle": 4,
+    "government-benefits": 4,
+    "healthcare-clinical": 3,
+    "consumer-chatbot": 3,
+    "enterprise-agent": 1,
+    "other": 2,
+    "criminal-justice": 2,
+    "security-cyber": 3,
+    "education": 2,
+    "content-moderation": 2,
+    "environmental": 1,
+    "finance-trading": 2,
+    "hiring-HR": 1
+  },
+  "by_incident_scope": {
+    "discrete-event": 14,
+    "systemic-program": 14,
+    "bounded-episode": 2
+  },
+  "by_era": {
+    "legacy": 22,
+    "genai": 8
+  },
+  "by_ai_causal_contribution": {
+    "major-contributor": 26,
+    "disputed": 3,
+    "contributory-non-necessary": 1
+  },
+  "by_attributed_primary_cause": {
+    "multiple": 6,
+    "organizational": 18,
+    "AI-system": 2,
+    "human-operator": 1,
+    "disputed": 3
+  },
+  "by_incident_confidence": {
+    "high": 21,
+    "medium": 7,
+    "low": 2
+  },
+  "agentic_count": 3,
+  "n_safeguards_total": 202,
+  "n_safeguards_incident_time": 181,
+  "n_safeguards_added_after": 21,
+  "state_distribution_incident_time": {
+    "Failed": {
+      "n": 32,
+      "pct_of_incident_time_safeguards": 17.7
+    },
+    "Working": {
+      "n": 37,
+      "pct_of_incident_time_safeguards": 20.4
+    },
+    "Absent": {
+      "n": 44,
+      "pct_of_incident_time_safeguards": 24.3
+    },
+    "Bypassed": {
+      "n": 15,
+      "pct_of_incident_time_safeguards": 8.3
+    },
+    "Disabled": {
+      "n": 5,
+      "pct_of_incident_time_safeguards": 2.8
+    },
+    "Inadequate": {
+      "n": 41,
+      "pct_of_incident_time_safeguards": 22.7
+    },
+    "Unknown": {
+      "n": 6,
+      "pct_of_incident_time_safeguards": 3.3
+    },
+    "Disputed": {
+      "n": 1,
+      "pct_of_incident_time_safeguards": 0.6
+    }
+  },
+  "suspected_absent_in_unknown": 5,
+  "nonfunctional_incident_time": {
+    "n": 137,
+    "pct": 75.7
+  },
+  "working_incident_time": {
+    "n": 37,
+    "pct": 20.4
+  },
+  "function_distribution_incident_time": {
+    "preventive": {
+      "n": 51,
+      "pct": 28.2
+    },
+    "containment": {
+      "n": 29,
+      "pct": 16.0
+    },
+    "detective": {
+      "n": 46,
+      "pct": 25.4
+    },
+    "assurance-governance": {
+      "n": 30,
+      "pct": 16.6
+    },
+    "recovery": {
+      "n": 25,
+      "pct": 13.8
+    }
+  },
+  "layer_distribution_incident_time": {
+    "application": {
+      "n": 43,
+      "pct": 23.8
+    },
+    "human-operator": {
+      "n": 26,
+      "pct": 14.4
+    },
+    "organizational-process": {
+      "n": 50,
+      "pct": 27.6
+    },
+    "external-ecosystem": {
+      "n": 40,
+      "pct": 22.1
+    },
+    "model": {
+      "n": 14,
+      "pct": 7.7
+    },
+    "infrastructure-environment": {
+      "n": 8,
+      "pct": 4.4
+    }
+  },
+  "state_by_function_incident_time": {
+    "preventive": {
+      "Failed": 10,
+      "Absent": 21,
+      "Disabled": 3,
+      "Unknown": 4,
+      "Bypassed": 6,
+      "Inadequate": 6,
+      "Disputed": 1
+    },
+    "containment": {
+      "Working": 7,
+      "Failed": 2,
+      "Absent": 8,
+      "Inadequate": 10,
+      "Bypassed": 1,
+      "Unknown": 1
+    },
+    "detective": {
+      "Bypassed": 7,
+      "Failed": 10,
+      "Absent": 6,
+      "Inadequate": 8,
+      "Working": 13,
+      "Disabled": 1,
+      "Unknown": 1
+    },
+    "assurance-governance": {
+      "Failed": 6,
+      "Disabled": 1,
+      "Inadequate": 13,
+      "Absent": 7,
+      "Working": 2,
+      "Bypassed": 1
+    },
+    "recovery": {
+      "Working": 15,
+      "Inadequate": 4,
+      "Absent": 2,
+      "Failed": 4
+    }
+  },
+  "state_by_layer_incident_time": {
+    "application": {
+      "Failed": 6,
+      "Working": 2,
+      "Absent": 17,
+      "Unknown": 3,
+      "Inadequate": 13,
+      "Disabled": 1,
+      "Bypassed": 1
+    },
+    "human-operator": {
+      "Bypassed": 6,
+      "Disabled": 2,
+      "Inadequate": 7,
+      "Absent": 5,
+      "Unknown": 1,
+      "Failed": 2,
+      "Working": 3
+    },
+    "organizational-process": {
+      "Failed": 16,
+      "Disabled": 2,
+      "Absent": 11,
+      "Unknown": 2,
+      "Bypassed": 3,
+      "Inadequate": 11,
+      "Working": 5
+    },
+    "external-ecosystem": {
+      "Working": 26,
+      "Bypassed": 3,
+      "Inadequate": 6,
+      "Failed": 3,
+      "Absent": 2
+    },
+    "model": {
+      "Absent": 5,
+      "Inadequate": 2,
+      "Disputed": 1,
+      "Bypassed": 1,
+      "Failed": 5
+    },
+    "infrastructure-environment": {
+      "Inadequate": 2,
+      "Absent": 4,
+      "Bypassed": 1,
+      "Working": 1
+    }
+  },
+  "incidents_with_any_absent": {
+    "n": 25,
+    "pct_of_incidents": 83.3
+  },
+  "omission_dominated_incidents": {
+    "n": 8,
+    "pct_of_incidents": 26.7
+  },
+  "detected_but_harm_still_realized": {
+    "n": 11,
+    "pct_of_incidents": 36.7
+  },
+  "n_relationships": 84,
+  "relationship_type_distribution": {
+    "enabling": {
+      "n": 49,
+      "pct_of_relationships": 58.3
+    },
+    "masking": {
+      "n": 7,
+      "pct_of_relationships": 8.3
+    },
+    "temporal-precedence": {
+      "n": 18,
+      "pct_of_relationships": 21.4
+    },
+    "common-cause": {
+      "n": 10,
+      "pct_of_relationships": 11.9
+    }
+  },
+  "relationship_confidence_distribution": {
+    "medium": 37,
+    "high": 33,
+    "low": 14
+  },
+  "relationships_per_incident": {
+    "min": 2,
+    "max": 5,
+    "mean": 2.8,
+    "incidents_with_zero_relationships": 0
+  },
+  "n_contributing_factors": 25,
+  "factor_type_distribution": {
+    "cultural": 2,
+    "incentive-structure": 9,
+    "economic": 2,
+    "other": 9,
+    "political": 2,
+    "organizational": 1
+  },
+  "evidence_status_distribution_safeguards": {
+    "confirmed-authoritative": 146,
+    "inferred-indirect": 13,
+    "single-source-reported": 8,
+    "disputed": 8,
+    "multiply-reported": 27
+  },
+  "confidence_distribution_safeguards": {
+    "medium": 55,
+    "high": 134,
+    "low": 13
+  },
+  "n_sources": 52,
+  "sources_per_incident": {
+    "min": 1,
+    "max": 2,
+    "mean": 1.73
+  },
+  "timeliness_by_function_incident_time": {
+    "preventive": {
+      "too-late": 1,
+      "not-applicable": 50
+    },
+    "containment": {
+      "in-time": 5,
+      "too-late": 4,
+      "not-applicable": 19,
+      "delayed": 1
+    },
+    "detective": {
+      "too-late": 22,
+      "delayed": 1,
+      "not-applicable": 21,
+      "in-time": 2
+    },
+    "assurance-governance": {
+      "too-late": 5,
+      "not-applicable": 25
+    },
+    "recovery": {
+      "too-late": 20,
+      "not-applicable": 3,
+      "delayed": 2
+    }
+  }
+}

@@ -1,0 +1,53 @@
+source_id,incident_id,url,source_type,label
+2023-cruise-drag-sf::SRC1,2023-cruise-drag-sf,https://www.justice.gov/usao-ndca/pr/cruise-admits-submitting-false-report-influence-federal-investigation-and-agrees-pay,primary,US DOJ deferred-prosecution announcement
+2023-cruise-drag-sf::SRC2,2023-cruise-drag-sf,https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23E086-7725.PDF,primary,NHTSA recall 23E-086
+2015-2020-au-robodebt::SRC3,2015-2020-au-robodebt,https://robodebt.royalcommission.gov.au/publications/report,primary,Royal Commission into the Robodebt Scheme final report
+2015-2020-au-robodebt::SRC4,2015-2020-au-robodebt,https://www.legalaid.vic.gov.au/explainer-deanna-amatos-robo-debt-case,primary,Amato v Commonwealth (unlawfulness concession)
+2013-2019-optum-impact-pro::SRC5,2013-2019-optum-impact-pro,https://www.science.org/doi/10.1126/science.aax2342,primary,"Obermeyer et al., Science 2019"
+2013-2019-optum-impact-pro::SRC6,2013-2019-optum-impact-pro,https://www.dfs.ny.gov/reports-and-publications/comment-letters/dfs-doh-joint-letter-uhgi-20191025,primary,NY DFS/DoH inquiry letter
+2022-air-canada-chatbot::SRC7,2022-air-canada-chatbot,https://www.canlii.org/en/bc/bccrt/doc/2024/2024bccrt149/2024bccrt149.html,primary,"Moffatt v. Air Canada, 2024 BCCRT 149"
+2025-gemini-cli-file-destruction::SRC8,2025-gemini-cli-file-destruction,https://github.com/google-gemini/gemini-cli/issues/4586,primary,GitHub issue #4586 (user report)
+2025-gemini-cli-file-destruction::SRC9,2025-gemini-cli-file-destruction,https://incidentdatabase.ai/cite/1178/,secondary,AI Incident Database #1178
+2018-2019-boeing-737max-mcas::SRC10,2018-2019-boeing-737max-mcas,https://democrats-transportation.house.gov/imo/media/doc/final_boeing_737_max_report1.pdf,primary,US House T&I Committee final report (2020)
+2018-2019-boeing-737max-mcas::SRC11,2018-2019-boeing-737max-mcas,https://www.justice.gov/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion,primary,US DOJ deferred-prosecution (2021)
+2013-2021-nl-toeslagen::SRC12,2013-2021-nl-toeslagen,https://www.amnesty.org/en/documents/eur35/4686/2021/en/,primary,"Amnesty International, Xenophobic Machines (2021)"
+2013-2021-nl-toeslagen::SRC13,2013-2021-nl-toeslagen,https://autoriteitpersoonsgegevens.nl/uploads/imported/boetebesluit_belastingdienst.pdf,primary,Autoriteit Persoonsgegevens fine decision
+2020-williams-detroit-facerec::SRC14,2020-williams-detroit-facerec,https://www.aclu.org/cases/williams-v-city-of-detroit-face-recognition-false-arrest,primary,"ACLU, Williams v. City of Detroit"
+2020-williams-detroit-facerec::SRC15,2020-williams-detroit-facerec,https://www.aclu.org/press-releases/civil-rights-advocates-achieve-the-nations-strongest-police-department-policy-on-facial-recognition-technology,primary,2024 settlement / DPD policy
+2023-mata-avianca-chatgpt::SRC16,2023-mata-avianca-chatgpt,https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2022cv01461/575368/54/,primary,"Mata v. Avianca, sanctions opinion (SDNY 2023)"
+2025-echoleak-m365-copilot::SRC17,2025-echoleak-m365-copilot,https://nvd.nist.gov/vuln/detail/cve-2025-32711,primary,NVD CVE-2025-32711
+2025-echoleak-m365-copilot::SRC18,2025-echoleak-m365-copilot,https://www.catonetworks.com/blog/breaking-down-echoleak/,secondary,Aim/Cato technical disclosure
+2016-tesla-autopilot-williston::SRC19,2016-tesla-autopilot-williston,https://www.ntsb.gov/Investigations/Accidentreports/Reports/Har1702.pdf,primary,NTSB HAR-17/02
+2016-tesla-autopilot-williston::SRC20,2016-tesla-autopilot-williston,https://static.nhtsa.gov/odi/inv/2016/INCLA-PE16007-7876.PDF,primary,NHTSA ODI PE16-007
+2016-compas-recidivism::SRC21,2016-compas-recidivism,https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing,secondary,"ProPublica, Machine Bias (2016)"
+2016-compas-recidivism::SRC22,2016-compas-recidivism,https://www.wicourts.gov/sc/opinion/DisplayDocument.pdf?content=pdf&seqNo=171690,primary,"State v. Loomis, 2016 WI 68"
+2016-microsoft-tay::SRC23,2016-microsoft-tay,https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/,primary,"Microsoft, Learning from Tay's introduction"
+2020-clearview-ai-scraping::SRC24,2020-clearview-ai-scraping,https://ico.org.uk/action-weve-taken/enforcement/clearview-ai-inc-mpn/,primary,UK ICO enforcement
+2020-clearview-ai-scraping::SRC25,2020-clearview-ai-scraping,https://www.oaic.gov.au/news/media-centre/clearview-ai-breached-australians-privacy,primary,OAIC determination
+2020-uk-ofqual-alevel::SRC26,2020-uk-ofqual-alevel,https://publications.parliament.uk/pa/cm5801/cmselect/cmeduc/617/61705.htm,primary,House of Commons Education Committee report
+2020-uk-ofqual-alevel::SRC27,2020-uk-ofqual-alevel,https://osr.statisticsauthority.gov.uk/our-regulatory-work/osr-review-of-approach-to-developing-statistical-models-designed-for-awarding-2020-exam-results/,primary,OSR review
+2013-2015-us-mi-midas::SRC28,2013-2015-us-mi-midas,https://law.justia.com/cases/michigan/supreme-court/2022/160813.html,primary,Bauserman v. UIA (Mich. Sup. Ct. 2022)
+2013-2015-us-mi-midas::SRC29,2013-2015-us-mi-midas,https://www.michigan.gov/ag/news/press-releases/2022/10/20/som-settlement-of-civil-rights-class-action-alleging-false-accusations-of-unemployment-fraud,primary,Michigan AG settlement
+2024-2025-raine-openai::SRC30,2024-2025-raine-openai,https://www.courthousenews.com/wp-content/uploads/2025/08/raine-vs-openai-et-al-complaint.pdf,primary,Raine v. OpenAI complaint (2025)
+2024-2025-raine-openai::SRC31,2024-2025-raine-openai,https://openai.com/index/helping-people-when-they-need-it-most/,primary,OpenAI public statement
+2021-facebook-files-instagram::SRC32,2021-facebook-files-instagram,https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739,secondary,"WSJ, The Facebook Files"
+2021-facebook-files-instagram::SRC33,2021-facebook-files-instagram,https://www.documentcloud.org/documents/21055941-facebook_teen-girls-body-image-and-social-comparison,primary,Leaked internal Meta research deck
+2015-vw-dieselgate::SRC34,2015-vw-dieselgate,https://www.epa.gov/archive/epa/newsreleases/epa-california-notify-volkswagen-clean-air-act-violations-carmaker-allegedly-used.html,primary,US EPA Notice of Violation
+2015-vw-dieselgate::SRC35,2015-vw-dieselgate,https://www.justice.gov/archives/opa/pr/volkswagen-ag-agrees-plead-guilty-and-pay-43-billion-criminal-and-civil-penalties-six,primary,US DOJ guilty plea
+2020-pulse-oximeter-bias::SRC36,2020-pulse-oximeter-bias,https://www.nejm.org/doi/full/10.1056/NEJMc2029240,primary,"Sjoding et al., NEJM 2020"
+2020-pulse-oximeter-bias::SRC37,2020-pulse-oximeter-bias,https://www.fda.gov/news-events/fda-brief/fda-brief-fda-warns-about-limitations-and-accuracy-pulse-oximeters,primary,FDA safety communication (2021)
+2010-flash-crash::SRC38,2010-flash-crash,https://www.sec.gov/news/studies/2010/marketevents-report.pdf,primary,CFTC-SEC joint report (2010)
+2010-flash-crash::SRC39,2010-flash-crash,https://www.cftc.gov/PressRoom/PressReleases/7156-15,primary,"CFTC charges (Sarao, 2015)"
+2021-zillow-offers::SRC40,2021-zillow-offers,https://www.prnewswire.com/news-releases/zillow-group-reports-third-quarter-2021-financial-results--shares-plan-to-wind-down-zillow-offers-operations-301414460.html,primary,Zillow Q3 2021 release / wind-down
+2018-ibm-watson-oncology::SRC41,2018-ibm-watson-oncology,https://www.statnews.com/2018/07/25/ibm-watson-recommended-unsafe-incorrect-treatments/,secondary,STAT News investigation (2018)
+2023-2025-mobley-workday::SRC42,2023-2025-mobley-workday,https://www.eeoc.gov/litigation/briefs/mobley-v-workday-inc,primary,EEOC amicus brief
+2023-2025-mobley-workday::SRC43,2023-2025-mobley-workday,https://www.hklaw.com/en/insights/publications/2025/05/federal-court-allows-collective-action-lawsuit-over-alleged,secondary,"Holland & Knight, ADEA certification analysis"
+2024-gemini-image-generation::SRC44,2024-gemini-image-generation,https://blog.google/products/gemini/gemini-image-generation-issue/,primary,"Google, Gemini image generation got it wrong"
+2018-tesla-autopilot-mountain-view::SRC45,2018-tesla-autopilot-mountain-view,https://www.ntsb.gov/investigations/pages/hwy18fh011.aspx,primary,NTSB HWY18FH011
+2023-tesla-autopilot-recall::SRC46,2023-tesla-autopilot-recall,https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V838-8276.PDF,primary,NHTSA recall 23V-838
+2017-2021-rotterdam-welfare::SRC47,2017-2021-rotterdam-welfare,https://www.lighthousereports.com/investigation/suspicion-machines/,secondary,"Lighthouse/WIRED, Suspicion Machines"
+2017-2021-rotterdam-welfare::SRC48,2017-2021-rotterdam-welfare,https://www.rekenkamers.nl/rapport/gekleurde-technologie/,primary,"Rekenkamer Rotterdam, Gekleurde technologie"
+2014-erater-babel-aes::SRC49,2014-erater-babel-aes,https://lesperelman.com/wp-content/uploads/2021/01/Perelman-BABEL-Generator-e-rater.pdf,primary,"Perelman, The BABEL Generator and e-rater (JWA)"
+2014-erater-babel-aes::SRC50,2014-erater-babel-aes,https://wacclearinghouse.org/docs/jwa/vol2/cahill.pdf,primary,"Cahill et al. (ETS), BABEL advisory"
+2025-amazon-q-injection::SRC51,2025-amazon-q-injection,https://aws.amazon.com/security/security-bulletins/AWS-2025-015/,primary,AWS Security Bulletin AWS-2025-015
+2025-amazon-q-injection::SRC52,2025-amazon-q-injection,https://www.404media.co/hacker-plants-computer-wiping-commands-in-amazons-ai-coding-agent/,secondary,404 Media investigation
