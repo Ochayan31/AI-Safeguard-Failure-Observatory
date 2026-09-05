@@ -1,0 +1,78 @@
+AI SAFEGUARD FAILURE OBSERVATORY - artifact manifest
+Dataset version: v1.0  |  Frozen: 2026-09-05
+Manifest regenerated: 2026-09-05T15:38:46Z
+==============================================================================
+
+PUBLIC-FACING (submission / release):
+  README.md
+  paper/J_research_paper.md
+  figures/  (6 PNG)
+  tables/   (6 tables, md + csv)
+  data/     (5 CSV + 1 JSON)
+
+SUPPORTING / REPRODUCIBILITY:
+  docs/     (framework, manual, dictionary, selection, QA, grounding, references, reproducibility, audit, coded batches)
+  scripts/  (build, validate, analyze, tables, figures, audit, selection)
+  analysis/ (computed statistics)
+  MANIFEST.txt
+
+==============================================================================
+COMPLETE FILE LIST (sha256[:16], size bytes):
+
+  17e30efaeac85e07      4542  README.md
+  a8280e57e20927f3      6590  analysis/analysis_results.json
+  14ca466b316270cc      4002  data/contributing_factors.csv
+  1c6071477158699d     10290  data/incidents.csv
+  2ca0e07d33a8edfd    197493  data/observatory_dataset.json
+  416d49d77cbb6333     11185  data/relationships.csv
+  8e5013ad4d7d8257     47597  data/safeguards.csv
+  787f0a6d81253882      9505  data/sources.csv
+  7dfcf1b968dac39a      8545  docs/B_data_dictionary.md
+  8caede7a8105da8d      5381  docs/C_coding_manual.md
+  57877b64e3be35a5      4032  docs/D_selection_methodology.md
+  2822e83f7d0b5dcd      7710  docs/E_qa_report.md
+  d807e0d7877364bf      6812  docs/I_technical_grounding.md
+  a0dfb9822d6b9856      4668  docs/K_references.md
+  02e667b5058f7497      3778  docs/L_reproducibility.md
+  b66a67f841cde086     11627  docs/N_final_integrity_audit.md
+  7c9e5bbf463efb0d     24544  docs/batch1_coded.md
+  60fd4b2d628754a7     21601  docs/batch2_coded.md
+  f035956b8a59395c     19472  docs/batch3_coded.md
+  63b8f6d5f333fac7     19529  docs/batch4_coded.md
+  80bbae5bddeecb83     19178  docs/batch5_coded.md
+  c22f4887ca6ff65d     18772  docs/batch6_coded.md
+  eef845ddf0d90f1e     28361  docs/cir_framework_v0.3.md
+  0274c05af4b5b8a0      6744  docs/coding_review_index.md
+  94c05839f6dacfe7     26936  docs/discovery_pool.md
+  ef423956d60bd1d7     17609  docs/incident_selection_protocol.md
+  b5d27dc24e8d91d1     31672  docs/pilot_coding_report.md
+  7e6b210604eab10b     20485  docs/schema_consistency_audit.md
+  c27e0ba1b5555a19      7115  docs/selected_sample_final.md
+  2c91cae23ae13d2b     64021  figures/fig1_state_distribution.png
+  2a2d893ce6596e4f     76481  figures/fig2_state_by_function.png
+  1c003b025753ba4d     85367  figures/fig3_state_by_layer.png
+  eea83d306ad05c50     45336  figures/fig4_relationship_types.png
+  7be0934c9ce3e72b     68137  figures/fig5_sample_composition.png
+  9cd16f914411416e     67957  figures/fig6_working_share_by_function.png
+  c237cfcde09993fe     23049  paper/J_research_paper.md
+  6b57c047a2665aa6      8591  scripts/analyze.py
+  506d854233a06f2f      6394  scripts/audit_independent.py
+  2e55070b80e4b674     74033  scripts/build_dataset.py
+  395af55be82e6597      8234  scripts/make_figures.py
+  6893f336534f12f0      4440  scripts/make_tables.py
+  f672b3c5ffb281cd     13666  scripts/select_sample_v2.py
+  1d6f17149f2a3c68      7644  scripts/validate.py
+  38f5aa443947a189      3633  tables/table1_sample_overview.csv
+  45aa7078986fc279      4322  tables/table1_sample_overview.md
+  6afd67de3250389a       205  tables/table2_state_distribution.csv
+  b64918796f833237       370  tables/table2_state_distribution.md
+  fda0504e8194d38c       250  tables/table3_state_by_function.csv
+  490c9ba432c216a9       481  tables/table3_state_by_function.md
+  9c6337e8d8517b44       304  tables/table4_state_by_layer.csv
+  7c019e6904484251       527  tables/table4_state_by_layer.md
+  b3ee9dd208f11bab       143  tables/table5_relationship_types.csv
+  416fed4a78b6fef9       246  tables/table5_relationship_types.md
+  1e6bc742d5938705       658  tables/table6_headline_findings.csv
+  97b0a77561b2226a       864  tables/table6_headline_findings.md
+
+Total files: 55
